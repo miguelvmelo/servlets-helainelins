@@ -1,5 +1,5 @@
 <h1 align="center"> 
-[Disciplina de Programação III]
+[Aula Prática sobre Servlets]
 </h1>
 <h4 align="center"> 
     Universidade de Pernambuco | Campus Garanhuns | Curso de Licenciatura em Computação
@@ -26,9 +26,9 @@
 
 ---
 
-## Sobre
+## Objetivo
 
-Vivenciar a experiência de construir soluções Java para WEB utilizando tecnologias e frameworks atuais, através de soluções integradas utilizando arquitetura MVC.
+Vivenciar o início da experiência de construir soluções Java para WEB e construir uma boa base no conhecimento da API de Servlets.
 
 ## Requisitos
 
