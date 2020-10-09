@@ -183,7 +183,7 @@ Ao finalizar o seu projeto você deve se certificar de que todo o código foi en
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2020] [Helaine Barreiros]
 
 ---
 
