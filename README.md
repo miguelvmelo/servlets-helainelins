@@ -20,9 +20,9 @@
 - [Sobre](#sobre)
 - [Requisitos](#requisitos)
 - [Configuração de Ambiente](#configuracao)
-- [Referências](#referencias)
+- [Instruções para a construção do seu projeto](#instrucoes)
 - [Licença](#license)
-- [Sobre](#sobre)
+- [Autor](#autor)
 
 ---
 
